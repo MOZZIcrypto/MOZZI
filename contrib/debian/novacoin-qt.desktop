@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MOZZI
+Comment=MOZZI P2P Cryptocurrency
+Comment[fr]=MOZZI, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MOZZI, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/MOZZI-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/MOZZI;
+Categories=Office;
